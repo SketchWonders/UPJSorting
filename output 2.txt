@@ -1,0 +1,239 @@
+
+E:\AlgorithmDesign>java Assign3
+Enter a value for n to test:
+60000
+************************
+Selection Sort
+************************
+K1 Selection Sort n=60000 3075
+K2 Selection Sort n=60000 2285
+K3 Selection Sort n=60000 2929
+************************
+K1 Selection Sort n=120000 9512
+K2 Selection Sort n=120000 6361
+K3 Selection Sort n=120000 10419
+************************
+K1 Selection Sort n=240000 45700
+K2 Selection Sort n=240000 26472
+K3 Selection Sort n=240000 46936
+************************
+K1 Selection Sort n=480000 177260
+K2 Selection Sort n=480000 119926
+K3 Selection Sort n=480000 188975
+************************
+Insertion Sort
+************************
+K1 Insertion Sort n=60000 2
+K2 Insertion Sort n=60000 650
+K3 Insertion Sort n=60000 2334
+************************
+K1 Insertion Sort n=120000 1
+K2 Insertion Sort n=120000 2288
+K3 Insertion Sort n=120000 9356
+************************
+K1 Insertion Sort n=240000 1
+K2 Insertion Sort n=240000 12604
+K3 Insertion Sort n=240000 44527
+************************
+K1 Insertion Sort n=480000 2
+K2 Insertion Sort n=480000 54740
+K3 Insertion Sort n=480000 185343
+************************
+************************
+Bubble Sort
+************************
+K1 Bubble Sort n=60000 1436
+K2 Bubble Sort n=60000 3607
+K3 Bubble Sort n=60000 4482
+************************
+K1 Bubble Sort n=120000 2299
+K2 Bubble Sort n=120000 5483
+K3 Bubble Sort n=120000 18688
+************************
+K1 Bubble Sort n=240000 11575
+K2 Bubble Sort n=240000 20973
+K3 Bubble Sort n=240000 75351
+************************
+K1 Bubble Sort n=480000 40231
+K2 Bubble Sort n=480000 95761
+K3 Bubble Sort n=480000 301230
+************************
+************************
+Shell Sort
+************************
+K1 Shell Sort n=60000 15
+K2 Shell Sort n=60000 11
+K3 Shell Sort n=60000 8
+************************
+K1 Shell Sort n=120000 3
+K2 Shell Sort n=120000 6
+K3 Shell Sort n=120000 30
+************************
+K1 Shell Sort n=240000 5
+K2 Shell Sort n=240000 9
+K3 Shell Sort n=240000 64
+************************
+K1 Shell Sort n=480000 10
+K2 Shell Sort n=480000 21
+K3 Shell Sort n=480000 114
+************************
+
+E:\AlgorithmDesign>java Assign3
+Enter a value for n to test:
+60000
+************************
+Selection Sort
+************************
+K1 Selection Sort n=60000 2924
+K2 Selection Sort n=60000 2094
+K3 Selection Sort n=60000 2409
+************************
+K1 Selection Sort n=120000 8397
+K2 Selection Sort n=120000 6407
+K3 Selection Sort n=120000 9945
+************************
+K1 Selection Sort n=240000 39638
+K2 Selection Sort n=240000 26452
+K3 Selection Sort n=240000 42512
+************************
+K1 Selection Sort n=480000 166607
+K2 Selection Sort n=480000 107752
+K3 Selection Sort n=480000 173320
+************************
+Insertion Sort
+************************
+K1 Insertion Sort n=60000 2
+K2 Insertion Sort n=60000 656
+K3 Insertion Sort n=60000 2405
+************************
+K1 Insertion Sort n=120000 1
+K2 Insertion Sort n=120000 2379
+K3 Insertion Sort n=120000 11874
+************************
+K1 Insertion Sort n=240000 1
+K2 Insertion Sort n=240000 14157
+K3 Insertion Sort n=240000 43063
+************************
+K1 Insertion Sort n=480000 2
+K2 Insertion Sort n=480000 55215
+K3 Insertion Sort n=480000 187265
+************************
+************************
+Bubble Sort
+************************
+K1 Bubble Sort n=60000 2048
+K2 Bubble Sort n=60000 5669
+K3 Bubble Sort n=60000 4414
+************************
+K1 Bubble Sort n=120000 2472
+K2 Bubble Sort n=120000 5174
+K3 Bubble Sort n=120000 18661
+************************
+K1 Bubble Sort n=240000 8593
+K2 Bubble Sort n=240000 24407
+K3 Bubble Sort n=240000 74539
+************************
+K1 Bubble Sort n=480000 40175
+K2 Bubble Sort n=480000 92751
+K3 Bubble Sort n=480000 301558
+************************
+************************
+Shell Sort
+************************
+K1 Shell Sort n=60000 12
+K2 Shell Sort n=60000 15
+K3 Shell Sort n=60000 13
+************************
+K1 Shell Sort n=120000 3
+K2 Shell Sort n=120000 5
+K3 Shell Sort n=120000 20
+************************
+K1 Shell Sort n=240000 6
+K2 Shell Sort n=240000 13
+K3 Shell Sort n=240000 52
+************************
+K1 Shell Sort n=480000 10
+K2 Shell Sort n=480000 18
+K3 Shell Sort n=480000 94
+************************
+
+E:\AlgorithmDesign>java Assign3
+Enter a value for n to test:
+60000
+************************
+Selection Sort
+************************
+K1 Selection Sort n=60000 2690
+K2 Selection Sort n=60000 2032
+K3 Selection Sort n=60000 2302
+************************
+K1 Selection Sort n=120000 8598
+K2 Selection Sort n=120000 6441
+K3 Selection Sort n=120000 13077
+************************
+K1 Selection Sort n=240000 39157
+K2 Selection Sort n=240000 25120
+K3 Selection Sort n=240000 42171
+************************
+K1 Selection Sort n=480000 167661
+K2 Selection Sort n=480000 106971
+K3 Selection Sort n=480000 167309
+************************
+Insertion Sort
+************************
+K1 Insertion Sort n=60000 6
+K2 Insertion Sort n=60000 851
+K3 Insertion Sort n=60000 2357
+************************
+K1 Insertion Sort n=120000 1
+K2 Insertion Sort n=120000 2506
+K3 Insertion Sort n=120000 13263
+************************
+K1 Insertion Sort n=240000 1
+K2 Insertion Sort n=240000 12423
+K3 Insertion Sort n=240000 40916
+************************
+K1 Insertion Sort n=480000 1
+K2 Insertion Sort n=480000 52450
+K3 Insertion Sort n=480000 174682
+************************
+************************
+Bubble Sort
+************************
+K1 Bubble Sort n=60000 2056
+K2 Bubble Sort n=60000 4688
+K3 Bubble Sort n=60000 4482
+************************
+K1 Bubble Sort n=120000 2590
+K2 Bubble Sort n=120000 5218
+K3 Bubble Sort n=120000 18293
+************************
+K1 Bubble Sort n=240000 8272
+K2 Bubble Sort n=240000 20733
+K3 Bubble Sort n=240000 74316
+************************
+K1 Bubble Sort n=480000 36198
+K2 Bubble Sort n=480000 83732
+K3 Bubble Sort n=480000 12195543
+************************
+************************
+Shell Sort
+************************
+K1 Shell Sort n=60000 12
+K2 Shell Sort n=60000 13
+K3 Shell Sort n=60000 13
+************************
+K1 Shell Sort n=120000 2
+K2 Shell Sort n=120000 4
+K3 Shell Sort n=120000 23
+************************
+K1 Shell Sort n=240000 4
+K2 Shell Sort n=240000 7
+K3 Shell Sort n=240000 40
+************************
+K1 Shell Sort n=480000 5
+K2 Shell Sort n=480000 29
+K3 Shell Sort n=480000 89
+************************
+
+E:\AlgorithmDesign>
